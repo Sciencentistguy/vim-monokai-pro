@@ -63,6 +63,10 @@ hi Title ctermfg=231 ctermbg=none cterm=bold guifg=#fcfcfa guibg=none gui=bold
 hi Todo ctermfg=231 ctermbg=none cterm=inverse,bold guifg=#fcfcfa guibg=none gui=inverse,bold,italic
 hi Type ctermfg=116 ctermbg=none cterm=none guifg=#78dce8 guibg=none gui=italic
 hi Underlined ctermfg=none ctermbg=none cterm=underline guifg=none guibg=none gui=underline
+hi SpellBad ctermfg=9 ctermbg=none
+hi SpellCap ctermfg=12 ctermbg=none
+hi SpellLocal ctermfg=14 ctermbg=none 
+hi SpellRare ctermfg=13 ctermbg=none 
 
 " Color for custom group
 " hi EndColons ctermfg=246 ctermbg=none cterm=none guifg=#939293 guibg=none gui=none
