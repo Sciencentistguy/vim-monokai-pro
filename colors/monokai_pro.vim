@@ -28,7 +28,7 @@ hi StatusLineNC ctermfg=231 ctermbg=59 cterm=none guifg=#fcfcfa guibg=#696769 gu
 hi Pmenu ctermfg=150 ctermbg=236 cterm=none guifg=#a9dc76 guibg=none gui=none
 hi PmenuSel ctermfg=none ctermbg=59 cterm=none guifg=none guibg=#403e41 gui=none
 hi IncSearch ctermfg=236 ctermbg=221 cterm=none guifg=#2d2a2e guibg=#ffd866 gui=none
-hi Search ctermfg=none ctermbg=none cterm=underline guifg=none guibg=none gui=underline
+hi Search ctermfg=236 ctermbg=221 cterm=none guifg=#2d2a2e guibg=#ffd866 gui=none
 hi Directory ctermfg=209 ctermbg=none cterm=none guifg=#fc9867 guibg=none gui=none
 hi Folded ctermfg=189 ctermbg=60 cterm=none guifg=#d7d7ff guibg=#5f5f87 gui=none
 hi Normal ctermfg=231 ctermbg=none term=none guifg=#fcfcfa guibg=#2d2a2e gui=none
