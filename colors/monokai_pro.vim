@@ -38,7 +38,7 @@ hi Comment ctermfg=59 ctermbg=none cterm=none guifg=#727072 guibg=none gui=itali
 hi Conditional ctermfg=204 ctermbg=none cterm=none guifg=#ff6188 guibg=none gui=none
 hi Constant ctermfg=147 ctermbg=none cterm=none guifg=#ab9df2 guibg=none gui=none
 hi Define ctermfg=204 ctermbg=none cterm=none guifg=#ff6188 guibg=none gui=none
-hi DiffAdd ctermfg=231 ctermbg=none cterm=bold guifg=#fcfcfa guibg=#47840e gui=bold
+hi DiffAdd ctermfg=64 ctermbg=none cterm=bold guifg=#fcfcfa guibg=#47840e gui=bold
 hi DiffDelete ctermfg=88 ctermbg=none cterm=none guifg=#8c0809 guibg=none gui=none
 hi DiffChange ctermfg=231 ctermbg=none cterm=none guifg=#fcfcfa guibg=#273a5b gui=none
 hi DiffText ctermfg=231 ctermbg=none cterm=bold guifg=#fcfcfa guibg=#204a87 gui=bold
