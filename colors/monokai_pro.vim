@@ -16,7 +16,7 @@ let g:colors_name = "monokai_pro"
 hi Cursor ctermfg=236 ctermbg=231 cterm=none guifg=#2d2a2e guibg=#fcfcfa gui=none
 hi SignColumn ctermfg=none ctermbg=none cterm=none guibg=#3a3a3a guifg=none guisp=none gui=none
 hi FoldColumn ctermfg=none ctermbg=none cterm=none guibg=#3a3a3a guifg=none guisp=none gui=none
-hi Visual ctermfg=none ctermbg=59 cterm=none guifg=none guibg=#403e41 gui=none
+hi Visual ctermfg=none ctermbg=145 cterm=none guifg=none guibg=#403e41 gui=none
 hi CursorLine ctermfg=none ctermbg=59 cterm=none guifg=none guibg=#423f42 gui=none
 hi CursorColumn ctermfg=none ctermbg=59 cterm=none guifg=none guibg=#423f42 gui=none
 hi ColorColumn ctermfg=none ctermbg=59 cterm=none guifg=none guibg=#423f42 gui=none
