@@ -45,4 +45,6 @@ let g:lightline = {
 
 ## License
 
-Released under the MIT license.
+Released under the AGPL license.
+
+[Upstream](https://github.com/phanviet/vim-monokai-pro) is available under the MIT licence.
