@@ -20,7 +20,7 @@ hi Visual ctermfg=none ctermbg=145 cterm=none guifg=none guibg=#403e41 gui=none
 hi CursorLine ctermfg=none ctermbg=59 cterm=none guifg=none guibg=#423f42 gui=none
 hi CursorColumn ctermfg=none ctermbg=59 cterm=none guifg=none guibg=#423f42 gui=none
 hi ColorColumn ctermfg=none ctermbg=59 cterm=none guifg=none guibg=#423f42 gui=none
-hi LineNr ctermfg=246 ctermbg=59 cterm=none guifg=#959394 guibg=#423f42 gui=none
+hi LineNr ctermfg=246 ctermbg=none cterm=none guifg=#959394 guibg=none gui=none
 hi VertSplit ctermfg=59 ctermbg=59 cterm=none guifg=#696769 guibg=#696769 gui=none
 hi MatchParen ctermfg=204 ctermbg=none cterm=underline guifg=#ff6188 guibg=none gui=underline
 hi StatusLine ctermfg=231 ctermbg=59 cterm=bold guifg=#fcfcfa guibg=#696769 gui=bold
@@ -65,8 +65,8 @@ hi Type ctermfg=116 ctermbg=none cterm=none guifg=#78dce8 guibg=none gui=italic
 hi Underlined ctermfg=none ctermbg=none cterm=underline guifg=none guibg=none gui=underline
 hi SpellBad ctermfg=9 ctermbg=none
 hi SpellCap ctermfg=12 ctermbg=none
-hi SpellLocal ctermfg=14 ctermbg=none 
-hi SpellRare ctermfg=13 ctermbg=none 
+hi SpellLocal ctermfg=14 ctermbg=none
+hi SpellRare ctermfg=13 ctermbg=none
 
 " Color for custom group
 " hi EndColons ctermfg=246 ctermbg=none cterm=none guifg=#939293 guibg=none gui=none
