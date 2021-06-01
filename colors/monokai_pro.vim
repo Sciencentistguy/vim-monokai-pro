@@ -19,7 +19,7 @@ hi FoldColumn ctermfg=none ctermbg=none cterm=none guibg=#3a3a3a guifg=none guis
 hi Visual ctermfg=none ctermbg=145 cterm=none guifg=none guibg=#403e41 gui=none
 hi CursorLine ctermfg=none ctermbg=59 cterm=none guifg=none guibg=#423f42 gui=none
 hi CursorColumn ctermfg=none ctermbg=59 cterm=none guifg=none guibg=#423f42 gui=none
-hi ColorColumn ctermfg=none ctermbg=89 cterm=none guifg=none guibg=#423f42 gui=none
+hi ColorColumn ctermfg=none ctermbg=235 cterm=none guifg=none guibg=#423f42 gui=none
 hi LineNr ctermfg=246 ctermbg=none cterm=none guifg=#959394 guibg=none gui=none
 hi VertSplit ctermfg=59 ctermbg=59 cterm=none guifg=#696769 guibg=#696769 gui=none
 hi MatchParen ctermfg=204 ctermbg=none cterm=underline guifg=#ff6188 guibg=none gui=underline
